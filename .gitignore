@@ -1,0 +1,13 @@
+# Ignore compiled binaries
+a.out
+*.out
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore debug files
+*.gdb
+
+# Ignore this folder 
+secondquestion/
